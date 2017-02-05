@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\AndroidExample\SoundRecorder-master\SoundRecorder-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="E:\AndroidExample\SoundRecorder-master\SoundRecorder-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-21.0.3_59a93999358f722ef146a3737bfc158bebab087f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\SOFTWARES\AndroidSetup\sdk\Android\sdk2\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="E:\AndroidExample\SoundRecorder-master\SoundRecorder-master\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_150397c77b213b34a1b34427d6cc4aebba291aaf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\GitHub\Audio-Keeper\app\build\intermediates\exploded-aar\com.jpardogo.materialtabstrip\library\1.0.6\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="15ebf37e2dc7047e993afdfb308610e171bcea1b">
+        <dex dex="E:\GitHub\Audio-Keeper\app\build\intermediates\pre-dexed\debug\com.jpardogo.materialtabstrip-library-1.0.6_4015e4bda20682e443409817e56943be9020f7eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidExample\SoundRecorder-master\SoundRecorder-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="E:\AndroidExample\SoundRecorder-master\SoundRecorder-master\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_f16be5358d144871006969f08f0c22eac44640a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidExample\SoundRecorder-master\SoundRecorder-master\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="E:\AndroidExample\SoundRecorder-master\SoundRecorder-master\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-21.0.3_3cd7cafbf6baac90da65d25fde0f3d5c74d4660c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\GitHub\Audio-Keeper\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="E:\GitHub\Audio-Keeper\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-21.0.3_badabbec472068fa7b926174ce18c4b6b6f47c1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\GitHub\Audio-Keeper\app\build\intermediates\exploded-aar\com.melnykov\floatingactionbutton\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="ee9ae2b87d57a33a7381c75d54db12bdf2995656">
+        <dex dex="E:\GitHub\Audio-Keeper\app\build\intermediates\pre-dexed\debug\com.melnykov-floatingactionbutton-1.1.0_bff2b35f5d8d586ff4d773ffa00390ac05c986d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidExample\SoundRecorder-master\SoundRecorder-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="E:\AndroidExample\SoundRecorder-master\SoundRecorder-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-21.0.2_b89bfe2a560feac3341c2442fd391c959f3fb450.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Advait\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="E:\AndroidExample\SoundRecorder-master\SoundRecorder-master\app\build\intermediates\pre-dexed\debug\library-2.4.0_54134b223be2fc31155526726451f314e4420b99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\GitHub\Audio-Keeper\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="E:\GitHub\Audio-Keeper\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-21.0.3_3b5ede17ede9b7c2e6d6f0c12c7b4870f4f1d057.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\GitHub\Audio-Keeper\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="E:\GitHub\Audio-Keeper\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-21.0.3_638e521b97e079622451071e0e0f339be859f0c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\GitHub\Audio-Keeper\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="E:\GitHub\Audio-Keeper\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_be6d933e59385adddbea75f2264d489e152bd3be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidExample\SoundRecorder-master\SoundRecorder-master\app\build\intermediates\exploded-aar\com.melnykov\floatingactionbutton\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="ee9ae2b87d57a33a7381c75d54db12bdf2995656">
+        <dex dex="E:\AndroidExample\SoundRecorder-master\SoundRecorder-master\app\build\intermediates\pre-dexed\debug\com.melnykov-floatingactionbutton-1.1.0_365cbe75e4306ff474ce17e726a270888713a97f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidExample\SoundRecorder-master\SoundRecorder-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="E:\AndroidExample\SoundRecorder-master\SoundRecorder-master\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-21.0.3_f2047ad29885b4a29bef72e38679c2c9653a64d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidExample\SoundRecorder-master\SoundRecorder-master\app\build\intermediates\exploded-aar\com.jpardogo.materialtabstrip\library\1.0.6\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="15ebf37e2dc7047e993afdfb308610e171bcea1b">
+        <dex dex="E:\AndroidExample\SoundRecorder-master\SoundRecorder-master\app\build\intermediates\pre-dexed\debug\com.jpardogo.materialtabstrip-library-1.0.6_271a20c8cb2f91eee4056c108091523901bf8e9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\GitHub\Audio-Keeper\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="E:\GitHub\Audio-Keeper\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-21.0.2_6a0ca1602b8acc9298474e0bd286df80c3f20b3b.jar" />
+    </item>
+
+</items>
