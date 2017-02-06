@@ -19,7 +19,6 @@ import com.advaitpatel.audiokeeper.fragments.FileViewerFragment;
 import com.advaitpatel.audiokeeper.fragments.LicensesFragment;
 import com.advaitpatel.audiokeeper.fragments.RecordFragment;
 
-
 public class MainActivity extends ActionBarActivity{
 
     private static final String LOG_TAG = MainActivity.class.getSimpleName();
