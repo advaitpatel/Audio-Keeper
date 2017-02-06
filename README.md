@@ -1,5 +1,6 @@
 # AudioKeeper by Advait Patel
-[<img src="https://github.com/advaitpatel/Android-Project-Apps/blob/master/Reminder%20Buddy-master/Reminder%20Buddy-master/app/src/main/res/drawable/app_bg.png" width=250 height=250 style="float: left; padding-right: 10px;">](https://www.linkedin.com/in/AdvaitPatel93)
+[<img src="https://github.com/advaitpatel/Audio-Keeper/blob/master/app/src/main/res/drawable/iconRecord.png" width=250 height=250 style="float: left; padding-right: 10px;">](https://www.linkedin.com/in/AdvaitPatel93)
+[<img src="https://github.com/advaitpatel/Audio-Keeper/blob/master/app/src/main/res/drawable/unnamed.png" width=250 height=250 style="float: left; padding-right: 10px;">](https://www.linkedin.com/in/AdvaitPatel93)
 
 A simple, OpenSource Audio File Storage App for Android device. 
 
@@ -21,49 +22,57 @@ A simple, OpenSource Audio File Storage App for Android device.
 
 # Screenshots
  
-## Application Home Screen with created sample reminders
+## Application Home Screen with Fab Button
 
-[<img src="https://cloud.githubusercontent.com/assets/6481231/22630060/30ed6284-ebb8-11e6-85d2-db88cdd44db6.png" width=250>](https://cloud.githubusercontent.com/assets/6481231/22630060/30ed6284-ebb8-11e6-85d2-db88cdd44db6.png)
-
-
-## Custom Reminder screen - 1
-
-[<img src="https://cloud.githubusercontent.com/assets/6481231/22630061/30edc9ea-ebb8-11e6-8de1-cacaeefc53a4.png" width=250>](https://cloud.githubusercontent.com/assets/6481231/22630061/30edc9ea-ebb8-11e6-8de1-cacaeefc53a4.png)
+[<img src="https://cloud.githubusercontent.com/assets/6481231/22634873/d076498e-ebf3-11e6-93a4-c3d7aabb9b4a.png" width=250>](https://cloud.githubusercontent.com/assets/6481231/22634873/d076498e-ebf3-11e6-93a4-c3d7aabb9b4a.png)
 
 
-## Custom Reminder screen - 2
+## Screen where recording will be stored
 
-[<img src="https://cloud.githubusercontent.com/assets/6481231/22630062/30edd37c-ebb8-11e6-9e73-6b617071a63d.png" width=250>](https://cloud.githubusercontent.com/assets/6481231/22630062/30edd37c-ebb8-11e6-9e73-6b617071a63d.png)
-
-
-## Material Design DatePicker
-
-[<img src="https://cloud.githubusercontent.com/assets/6481231/22630064/30ef56ac-ebb8-11e6-9974-3c2a18e406ca.png" width=250>](https://cloud.githubusercontent.com/assets/6481231/22630064/30ef56ac-ebb8-11e6-9974-3c2a18e406ca.png)
+[<img src="https://cloud.githubusercontent.com/assets/6481231/22634874/d07696be-ebf3-11e6-92cb-8ccb2b4e15d5.png" width=250>](https://cloud.githubusercontent.com/assets/6481231/22634874/d07696be-ebf3-11e6-92cb-8ccb2b4e15d5.png)
 
 
-## Material Design TimePicker
+## Start Recording
 
-[<img src="https://cloud.githubusercontent.com/assets/6481231/22630065/30ef8f1e-ebb8-11e6-8af6-31a3d73beb25.png" width=250>](https://cloud.githubusercontent.com/assets/6481231/22630065/30ef8f1e-ebb8-11e6-8af6-31a3d73beb25.png)
-
-
-## Enter a number to create an interval
-
-[<img src="https://cloud.githubusercontent.com/assets/6481231/22630066/30f94702-ebb8-11e6-8f62-7ed33751bd5f.png" width=250>](https://cloud.githubusercontent.com/assets/6481231/22630066/30f94702-ebb8-11e6-8f62-7ed33751bd5f.png)
+[<img src="https://cloud.githubusercontent.com/assets/6481231/22634867/d06a0e6c-ebf3-11e6-803c-393d003cf444.png" width=250>](https://cloud.githubusercontent.com/assets/6481231/22634867/d06a0e6c-ebf3-11e6-803c-393d003cf444.png)
 
 
-## To select an interval type
+## Stop Recording and the file will be stored on the user's device
 
-[<img src="https://cloud.githubusercontent.com/assets/6481231/22630069/30fc9fe2-ebb8-11e6-8e30-357f79a39884.png" width=250>](https://cloud.githubusercontent.com/assets/6481231/22630069/30fc9fe2-ebb8-11e6-8e30-357f79a39884.png)
-
-
-## Basic textfield validation
-
-[<img src="https://cloud.githubusercontent.com/assets/6481231/22630067/30fc2f26-ebb8-11e6-8090-2e608a415459.png" width=250>](https://cloud.githubusercontent.com/assets/6481231/22630067/30fc2f26-ebb8-11e6-8090-2e608a415459.png)
+[<img src="https://cloud.githubusercontent.com/assets/6481231/22634865/d05e19f4-ebf3-11e6-9df8-c63cb1cb6960.png" width=250>](https://cloud.githubusercontent.com/assets/6481231/22634865/d05e19f4-ebf3-11e6-9df8-c63cb1cb6960.png)
 
 
-## Statusbar notification of an event
+## List of created/saved audio files on card layout
 
-[<img src="https://cloud.githubusercontent.com/assets/6481231/22630068/30fc5f6e-ebb8-11e6-85f9-499b4ba2aec9.png" width=250>](https://cloud.githubusercontent.com/assets/6481231/22630068/30fc5f6e-ebb8-11e6-85f9-499b4ba2aec9.png)
+[<img src="https://cloud.githubusercontent.com/assets/6481231/22634869/d06a7668-ebf3-11e6-8229-1f1ba2876f69.png" width=250>](https://cloud.githubusercontent.com/assets/6481231/22634869/d06a7668-ebf3-11e6-8229-1f1ba2876f69.png)
+
+
+## Click on the particular audio file to play
+
+[<img src="https://cloud.githubusercontent.com/assets/6481231/22634866/d069a5ee-ebf3-11e6-9fa4-1be870e24cb6.png" width=250>](https://cloud.githubusercontent.com/assets/6481231/22634866/d069a5ee-ebf3-11e6-9fa4-1be870e24cb6.png)
+
+
+## List of available options to perform
+
+[<img src="https://cloud.githubusercontent.com/assets/6481231/22634868/d06a7096-ebf3-11e6-85f4-4f003d3ffeb3.png" width=250>](https://cloud.githubusercontent.com/assets/6481231/22634868/d06a7096-ebf3-11e6-85f4-4f003d3ffeb3.png)
+
+
+## By clicking on "Share file" - User can share the file
+
+[<img src="https://cloud.githubusercontent.com/assets/6481231/22634871/d06b5902-ebf3-11e6-99c2-56594c6b1365.png" width=250>](https://cloud.githubusercontent.com/assets/6481231/22634871/d06b5902-ebf3-11e6-99c2-56594c6b1365.png)
+
+## By clicking on "Rename file" - User can rename the file name
+
+[<img src="https://cloud.githubusercontent.com/assets/6481231/22634875/d077dd4e-ebf3-11e6-93c8-3a34ec587fff.png" width=250>](https://cloud.githubusercontent.com/assets/6481231/22634875/d077dd4e-ebf3-11e6-93c8-3a34ec587fff.png)
+
+## The update file with the new name
+
+[<img src="https://cloud.githubusercontent.com/assets/6481231/22634872/d0734568-ebf3-11e6-9eaa-f5f33b054568.png" width=250>](https://cloud.githubusercontent.com/assets/6481231/22634872/d0734568-ebf3-11e6-9eaa-f5f33b054568.png)
+
+
+## By clicking on "Delete file" - User can delete the file
+
+[<img src="https://cloud.githubusercontent.com/assets/6481231/22634870/d06b22ac-ebf3-11e6-837b-67234bb01a11.png" width=250>](https://cloud.githubusercontent.com/assets/6481231/22634870/d06b22ac-ebf3-11e6-837b-67234bb01a11.png)
 
 
 ## Contribution
